@@ -1,7 +1,7 @@
 import java .util.Scanner;
 
 
-public class MediaPonderada {
+public class ConversaoTemperatura {
 
     public static void main(String[] args) {
 
