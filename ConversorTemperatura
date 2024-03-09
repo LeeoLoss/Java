@@ -1,7 +1,7 @@
 import java .util.Scanner;
 
 
-public class MediaPonderada {
+public class ConversorTemperatura {
 
     public static void main(String[] args) {
 
